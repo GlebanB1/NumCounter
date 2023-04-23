@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">NumCounter</string>
+    <string name="Loading">Loading</string>
+    <string name="image_description">Icon and image of app</string>
+    <string name="AppName">NumCounter</string>
+    <string name="profile_text">Enter your name please!</string>
+    <string name="welcome">Welcome to app!</string>
+    <string name="name">Name</string>
+    <string name="start">Start</string>
+    <string name="newbie">Newbie</string>
+    <string name="s_game">Single game!</string>
+    <string name="h_play">How to play!</string>
+    <string name="exit">Exit!</string>
+    <string name="info">About us!</string>
+    <string name="back">Back!</string>
+    <string name="hey">Hey everyone!</string>
+    <string name="aboutus">This is my first android application, which I made for   university Mid-term Project.
+Hope you will like this small game!</string>
+    <string name="rate">Rate us!</string>
+    <string name="howplay">How to play?</string>
+    <string name="hp_text1"> On screen would appears different numbers from 2 to 20. Your task are to collect sum of numbers  under this number on special numbers panel. If
+your sum of numbers would be right you will get points, if not you will lose some points!</string>
+    <string name="hp_text2"> This game has 1 game mode yet. First is offline, where you for 1 minute
+        should score as much points as you could!</string>
+    <string name="gl">Good luck!</string>
+    <string name="pic">image_profile2</string>
+    <string name="num1">0</string>
+    <string name="num2">0</string>
+    <string name="num3">00</string>
+    <string name="time">60 seconds</string>
+    <string name="min">min</string>
+    <string name="Go">Game Started!</string>
+    <string name="Congrat">Congratulations!</string>
+    <string name="results">Your results are:</string>
+    <string name="points">Points:</string>
+    <string name="time1">Time:</string>
+    <string name="numbers">Numbers:</string>
+    <string name="points1">----</string>
+    <string name="minuts">1 min</string>
+    <string name="numbers2">00</string>
+    <string name="playAgain">Again!</string>
+
+</resources>
